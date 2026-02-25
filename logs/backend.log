@@ -1,0 +1,1113 @@
+login success!
+login success!
+ * Serving Flask app 'app'
+ * Debug mode: off
+2026-02-25 10:25:04,537 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (::)
+ * Running on http://[::1]:5000
+ * Running on http://[fd00:6868:6868:0:5054:ff:fe84:6a05]:5000
+2026-02-25 10:25:04,537 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-25 10:26:02,403 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:27:02,312 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:27:02,375 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:28:02,317 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:28:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:29:02,312 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:29:02,376 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:30:02,311 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:30:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:31:02,311 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:31:02,373 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:32:02,312 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:32:02,376 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:33:02,312 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:33:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:34:02,313 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:34:02,375 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:35:02,312 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:35:02,376 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:36:02,312 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:36:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:37:02,313 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:37:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:38:02,312 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:38:02,376 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:39:02,312 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:39:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:40:02,313 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:40:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:41:02,312 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:41:02,375 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:42:02,312 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:42:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:43:02,313 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:43:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:44:02,312 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:44:02,375 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:45:02,311 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:45:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:46:02,313 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:46:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:47:02,312 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:47:02,376 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:48:02,312 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:48:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:49:02,313 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:49:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:50:02,312 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:50:02,375 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:51:02,312 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:51:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:52:02,313 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:52:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:53:02,312 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:53:02,376 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:54:02,311 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:54:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:55:02,313 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:55:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:56:02,311 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:56:02,376 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:57:02,312 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:57:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:58:02,313 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:58:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:59:02,312 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 10:59:02,376 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:00:02,312 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:00:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:01:02,312 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:01:02,373 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:02:02,311 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:02:02,375 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:03:02,312 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:03:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:04:02,313 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:04:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:05:02,311 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:05:02,376 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:06:02,312 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:06:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:07:02,312 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:07:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:08:02,312 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:08:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:09:02,312 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:09:02,375 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:10:02,313 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:10:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:11:02,311 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:11:02,376 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:12:02,312 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:12:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:13:02,313 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:13:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:14:02,312 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:14:02,376 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:15:02,312 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:15:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:16:02,312 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:16:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:17:02,312 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:17:02,376 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:18:02,312 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:18:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:19:02,313 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:19:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:20:02,312 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:20:02,375 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:21:02,312 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:21:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:22:02,313 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:22:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:23:02,312 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:23:02,376 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:24:02,312 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:24:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:25:02,314 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:25:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:26:02,312 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:26:02,376 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:27:02,312 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:27:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:28:02,313 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:28:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:29:02,312 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 11:29:02,375 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:00:02,312 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:00:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:01:02,311 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:01:02,373 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:02:02,312 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:02:02,376 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:03:02,311 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:03:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:04:02,312 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:04:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:05:02,311 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:05:02,376 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:06:02,312 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:06:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:07:02,313 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:07:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:08:02,312 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:08:02,375 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:09:02,312 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:09:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:10:02,314 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:10:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:11:02,312 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:11:02,375 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:12:02,311 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:12:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:13:02,314 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:13:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:14:02,311 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:14:02,375 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:15:02,312 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:15:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:15:58,531 - INFO - ::ffff:192.168.31.174 - - [25/Feb/2026 13:15:58] "GET /api/funds/list?fund_name=&fund_code=&page=1&page_size=20&sort_field=&sort_order=asc HTTP/1.0" 200 -
+2026-02-25 13:16:00,058 - INFO - ::ffff:192.168.31.174 - - [25/Feb/2026 13:16:00] "GET /api/watchlist/list HTTP/1.0" 200 -
+2026-02-25 13:16:00,067 - INFO - ::ffff:192.168.31.174 - - [25/Feb/2026 13:16:00] "GET /api/holding/list HTTP/1.0" 200 -
+2026-02-25 13:16:00,079 - INFO - ::ffff:192.168.31.174 - - [25/Feb/2026 13:16:00] "GET /api/lab/screen/ranges HTTP/1.0" 200 -
+2026-02-25 13:16:00,080 - INFO - ::ffff:192.168.31.174 - - [25/Feb/2026 13:16:00] "GET /api/holding/portfolio-history?days=30 HTTP/1.0" 200 -
+2026-02-25 13:16:00,270 - INFO - ::ffff:192.168.31.174 - - [25/Feb/2026 13:16:00] "GET /api/lab/screen?page=1&page_size=20&min_rank_ratio=0&max_rank_ratio=100&min_weekly_return=-10&max_weekly_return=10&min_monthly_return=-20&max_monthly_return=30&min_yearly_return=-50&max_yearly_return=200 HTTP/1.0" 200 -
+2026-02-25 13:16:00,270 - INFO - ::ffff:192.168.31.174 - - [25/Feb/2026 13:16:00] "GET /api/lab/screen?page=1&page_size=20 HTTP/1.0" 200 -
+2026-02-25 13:16:01,142 - INFO - ::ffff:192.168.31.174 - - [25/Feb/2026 13:16:01] "GET /api/stock/watchlist/list HTTP/1.0" 200 -
+2026-02-25 13:16:01,196 - INFO - ::ffff:192.168.31.174 - - [25/Feb/2026 13:16:01] "GET /api/stock/factors HTTP/1.0" 200 -
+2026-02-25 13:16:01,235 - INFO - ::ffff:192.168.31.174 - - [25/Feb/2026 13:16:01] "GET /api/stock/quick-filters HTTP/1.0" 200 -
+2026-02-25 13:16:01,307 - INFO - ::ffff:192.168.31.174 - - [25/Feb/2026 13:16:01] "GET /api/stock/strategies HTTP/1.0" 200 -
+2026-02-25 13:16:01,594 - INFO - ::ffff:192.168.31.174 - - [25/Feb/2026 13:16:01] "POST /api/stock/screen HTTP/1.0" 200 -
+2026-02-25 13:16:02,314 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:16:02,376 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:16:02,379 - INFO - ::ffff:192.168.31.174 - - [25/Feb/2026 13:16:02] "GET /api/stock/watchlist/list HTTP/1.0" 200 -
+2026-02-25 13:16:05,027 - INFO - ::ffff:192.168.31.174 - - [25/Feb/2026 13:16:05] "GET /api/stock/watchlist/list HTTP/1.0" 200 -
+2026-02-25 13:17:02,311 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:17:02,375 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:18:02,312 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:18:02,373 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:18:48,416 - INFO - ::ffff:192.168.31.174 - - [25/Feb/2026 13:18:48] "GET /api/holding/list HTTP/1.0" 200 -
+2026-02-25 13:18:48,416 - INFO - ::ffff:192.168.31.174 - - [25/Feb/2026 13:18:48] "GET /api/watchlist/list HTTP/1.0" 200 -
+2026-02-25 13:18:48,425 - INFO - ::ffff:192.168.31.174 - - [25/Feb/2026 13:18:48] "GET /api/holding/portfolio-history?days=30 HTTP/1.0" 200 -
+2026-02-25 13:18:48,434 - INFO - ::ffff:192.168.31.174 - - [25/Feb/2026 13:18:48] "GET /api/lab/screen/ranges HTTP/1.0" 200 -
+2026-02-25 13:18:48,539 - INFO - ::ffff:192.168.31.174 - - [25/Feb/2026 13:18:48] "GET /api/lab/screen?page=1&page_size=20 HTTP/1.0" 200 -
+2026-02-25 13:18:48,558 - INFO - ::ffff:192.168.31.174 - - [25/Feb/2026 13:18:48] "GET /api/lab/screen?page=1&page_size=20&min_rank_ratio=0&max_rank_ratio=100&min_weekly_return=-10&max_weekly_return=10&min_monthly_return=-20&max_monthly_return=30&min_yearly_return=-50&max_yearly_return=200 HTTP/1.0" 200 -
+2026-02-25 13:18:49,154 - INFO - ::ffff:192.168.31.174 - - [25/Feb/2026 13:18:49] "GET /api/stock/watchlist/list HTTP/1.0" 200 -
+2026-02-25 13:18:49,203 - INFO - ::ffff:192.168.31.174 - - [25/Feb/2026 13:18:49] "GET /api/stock/factors HTTP/1.0" 200 -
+2026-02-25 13:18:49,250 - INFO - ::ffff:192.168.31.174 - - [25/Feb/2026 13:18:49] "GET /api/stock/quick-filters HTTP/1.0" 200 -
+2026-02-25 13:18:49,309 - INFO - ::ffff:192.168.31.174 - - [25/Feb/2026 13:18:49] "GET /api/stock/strategies HTTP/1.0" 200 -
+2026-02-25 13:18:49,612 - INFO - ::ffff:192.168.31.174 - - [25/Feb/2026 13:18:49] "POST /api/stock/screen HTTP/1.0" 200 -
+2026-02-25 13:18:50,716 - INFO - ::ffff:192.168.31.174 - - [25/Feb/2026 13:18:50] "GET /api/stock/watchlist/list HTTP/1.0" 200 -
+2026-02-25 13:19:02,311 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:19:02,373 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:20:02,311 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:20:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:21:02,311 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:21:02,373 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:22:02,312 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:22:02,373 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:23:02,311 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:23:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:24:02,312 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:24:02,373 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:25:02,311 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:25:02,373 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:26:02,311 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:26:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:27:02,311 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:27:02,373 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:28:02,312 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:28:02,373 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:29:02,311 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:29:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:30:02,311 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:30:02,373 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:31:02,311 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:31:02,373 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:32:02,311 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:32:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:33:02,311 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:33:02,373 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:34:02,312 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:34:02,373 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:35:02,311 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:35:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:36:02,311 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:36:02,373 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:37:02,312 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:37:02,373 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:38:02,311 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:38:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:39:02,311 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:39:02,373 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:40:02,311 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:40:02,373 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:41:02,311 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:41:02,374 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:41:06,009 - INFO - ::1 - - [25/Feb/2026 13:41:06] "POST /api/stock/pro/backtest HTTP/1.1" 200 -
+2026-02-25 13:41:12,405 - INFO - ::1 - - [25/Feb/2026 13:41:12] "POST /api/stock/pro/backtest HTTP/1.1" 200 -
+2026-02-25 13:42:02,311 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:42:02,373 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:42:10,968 - INFO - ::1 - - [25/Feb/2026 13:42:10] "POST /api/stock/pro/backtest HTTP/1.1" 200 -
+2026-02-25 13:43:02,312 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.
+2026-02-25 13:43:02,373 - ERROR - ❌ 查询交易日失败: Working outside of application context.
+
+This typically means that you attempted to use functionality that needed
+the current application. To solve this, set up an application context
+with app.app_context(). See the documentation for more information.

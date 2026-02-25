@@ -1,0 +1,10 @@
+# 闲鱼监控系统 - 定时任务配置
+
+# 每30分钟执行一次监控检查
+*/30 * * * * cd /home/clawdbot/.openclaw/workspace/xianyu_monitor/backend && python3 tasks.py --check --image-check
+
+# 每小时发送一次待处理通知
+0 * * * * cd /home/clawdbot/.openclaw/workspace/xianyu_monitor/backend && python3 tasks.py --notify
+
+# 每天早上9点发送一次汇总报告
+0 9 * * * cd /home/clawdbot/.openclaw/workspace/xianyu_monitor/backend && python3 tasks.py --all

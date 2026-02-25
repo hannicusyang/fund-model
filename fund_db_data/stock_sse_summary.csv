@@ -1,0 +1,4 @@
+id,trade_date,star_circulating_capital,star_total_mv,star_avg_pe,star_companies,star_stocks,star_circulating_mv,star_total_capital,main_circulating_capital,main_total_mv,main_avg_pe,main_companies,main_stocks,main_circulating_mv,main_total_capital,update_time
+1,2026-01-30,1970.9,115133.0,75.76,601,601,96597.2,2411.79,45988.3,557731.0,15.14,1705,1743,535946.0,48339.4,2026-02-02 02:21:49
+2,2026-02-03,1970.96,113052.0,74.89,601,601,95011.8,2411.83,46022.7,551470.0,14.96,1705,1743,530487.0,48348.2,2026-02-04 07:00:04
+3,2026-02-06,1974.1,110098.0,73.07,602,602,92527.5,2416.3,46023.4,554061.0,15.03,1705,1743,532948.0,48349.9,2026-02-08 08:29:59
