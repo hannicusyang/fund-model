@@ -38,6 +38,18 @@
 
 ---
 
+## 2026-03-02 技术分析移动端修复
+
+### K线图溢出问题
+- **问题**：K线图在移动端超出容器边界
+- **根因**：ECharts通过JS内部设置canvas宽度，CSS无法覆盖
+- **解决方案**：在StockAnalysis.vue添加`fixKlineWidth()`函数，onMounted时调用chart.resize()重新设置宽度
+
+### 修改文件
+- `Fund_front/src/components/model/stock/StockAnalysis.vue`
+
+---
+
 ## 股票模型实验项目
 
 ### 项目概述
