@@ -465,7 +465,10 @@ const downCount = computed(() => {
 
 const avgChange = computed(() => {
   if (watchlistData.value.length === 0) return 0
-  const sum = watchlistData.value.reduce((acc, item) => acc + (item['涨跌幅'] || 0), 0)
+  const sum = watchlistData.value.reduce((acc, item) => {
+    const val = item['涨跌幅']
+    return acc + (val == null || isNaN(val) ? 0 : val)
+  }, 0)
   return sum / watchlistData.value.length
 })
 
