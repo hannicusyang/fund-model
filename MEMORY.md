@@ -10,6 +10,35 @@
 - 遇到问题要自己排查修复
 - 测试通过后再汇报完成
 
+---
+
+## 2026-03-11 系统优化
+
+### 风险收益分布图表修复
+- **问题**：散点图不显示数据
+- **修复**：StockPortfolio.vue 增强数据有效性检查、添加空状态处理
+
+### 基金估值定时任务修复
+- **问题**：9:30-15:00 交易时段内定时任务未执行
+- **根因**：时间检查逻辑bug `time(9,30) <= current_time <= time(15,0)` 只精确到15:00:00
+- **修复**：分时段检查上午盘(9:30-11:30) + 下午盘(13:00-15:05)
+- **文件**：`Fund_backend/tasks/fund_estimation_scheduler.py`
+
+### OpenClaw 升级
+- 原版本：2026.2.13 → 新版本：2026.3.8
+- 备份位置：~/openclaw_backup_20260311.json
+
+### Kimi API 问题
+- 配置显示 Kimi K2.5，但 API 认证失败
+- 原因：API Key 是 Kimi For Coding 专用，只能在 Claude Code/Roo Code 中使用
+- 端点问题：当前配置 api.moonshot.cn 应改为 api.kimi.com/coding/v1
+
+### Skills 安装
+- stock-watcher: 股票监控
+- stock-technical-analysis: 技术分析
+
+---
+
 ## 2026-03-08 财经资讯监控优化
 
 ### 问题
